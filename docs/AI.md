@@ -10,6 +10,7 @@ Use Case | Technologies
 [AI Search, Source from Data Explorer](AISearch_fromDataExplorer.md) | Data Explorer (via export), AI Search, JSON, HTML
 [AI Search, Multi-Source Index](AISearch_MultiSourceIndex.md) | SQL, Blob Storage, AI Search, JSON
 [AI Search, PowerApp UI + Security](AISearch_PowerApp+Security.md) | AI Search, Power Apps, JSON
+[AI Search + OpenAI, ImproveResponseQuality](AISearch+OpenAI_ImproveResponseQuality.md) | AI Search, Open AI, Visual Studio (C#)
 [Enrich Data using OpenAI](Data_Enrichment_OpenAI.md) | Synapse Pipeline, OpenAI, Data Explorer, API
 
 ## DevOps
@@ -17,9 +18,3 @@ Use Case | Technologies
 Use Case | Technologies
 :----- | :-----
 [AI Search, DevOps](AISearch_DevOps.md) | Visual Studio (C#), DevOps
-
-## Work-in-Progress (WiP)
-
-Use Case | Technologies
-:----- | :-----
-[AI Search + OpenAI, ImproveResponseQuality](AISearch+OpenAI_ImproveResponseQuality.md) | AI Search, Open AI, Visual Studio (C#)
